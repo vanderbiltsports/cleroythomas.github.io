@@ -1,24 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-07-19 11:49:45 +0200
-categories: jekyll update
+title:  "Auburn's 10 most important Tigers for the 2017 season"
+date:   2017-07-07 11:49:45 +0200
+categories: Football
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+No. 10 Braden Smith, offensive lineman
+Smith (6-foot-6, 303 pounds), the Tigers' most experienced offensive lineman, kicks off the countdown. Smith moved from right guard to right tackle, and his combination of experience and versatility make him Auburn's most valuable lineman. READ MORE.  
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+No. 9 Daniel Carlson, kicker
+Daniel Carlson, the two-time Lou Groza Award finalist and arguably the top returning kicker in the nation, checks in at No. 9 on the countdown heading into his senior season. READ MORE. 
 
-Jekyll also offers powerful support for code snippets:
+See the rest of the Article here: 
+http://www.al.com/auburnfootball/index.ssf/2017/07/auburns_10_most_important_tige.html
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
